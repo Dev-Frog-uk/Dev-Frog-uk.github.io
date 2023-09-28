@@ -32,7 +32,7 @@ Here are the commands available for the Discord bot:
 - **Example:** `/admin setup set_channels #confession-channel #report-channel`
 
 - **Description:** Admins configure confession role.
-- **Usage:** `/admin setup set_role <required_role>:`
+- **Usage:** `/admin setup set_role <required_role>`
 - **Example:** `/admin setup set_role @Confessor`
 
 ## /Ban User
