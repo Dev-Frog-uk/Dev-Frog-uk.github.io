@@ -1,8 +1,3 @@
----
-Title: My Retype Page
-Layout: _layout.cshtml
----
-
 # Discord Bot Commands
 
 Here are the commands available for the Discord bot:
